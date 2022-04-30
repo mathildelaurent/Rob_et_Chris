@@ -1,0 +1,63 @@
+/*
+* PrestaShop module created by VEKIA, a guy from official PrestaShop community ;-)
+*
+* @author    VEKIA https://www.prestashop.com/forums/user/132608-vekia/
+* @copyright 2010-2021  VEKIA
+* @license   This program is not free software and you can't resell and redistribute it
+*
+* CONTACT WITH DEVELOPER
+* support@mypresta.eu
+*/
+
+.mqc_message {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: #000;
+    border: 1px solid;
+    margin: 10px;
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    color: #9F6000;
+    background-color: #FEEFB3;
+}
+
+.mqc_fancy {
+    text-align: center;
+}
+
+.mqc_error_line {
+    display: block;
+    clear: both;
+}
+
+.mqc_table {
+    width: 100%;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.mqc_table tr {
+    border-bottom: 1px dotted #a48c00;
+}
+
+.mqc_table tr td {
+    padding: 6px;
+}
+
+.mqcalertcart .alert-danger {
+    margin-bottom: 0px !important;
+}
+
+.fancybox-inner {
+    height: auto !important;
+}
+
+.mqcalertcart ul {
+    list-style: decimal;
+    padding:10px;
+}
+
+.mqc_fancy {
+    margin-bottom:0px;
+}

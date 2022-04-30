@@ -1,0 +1,16 @@
+/* 18.06.19 - Webbax | TUTO 79 */
+#cms .li-category-blog{border-bottom:1px dashed #ccc;padding-top:20px;}
+#cms .li-category-blog .title{font-weight:bold;}
+#cms .li-category-blog span{display:block;}
+#cms .li-category-blog img{margin-bottom:20px;margin-top:20px;width:100%;}
+#cms .li-category-blog .btn{margin-top:0px;margin-bottom:20px;}
+
+/* desktop */
+@media(min-width:1024px){ 
+    #cms .li-category-blog{margin-left:20%;margin-right:20%;}
+}
+
+/* mobile */
+@media(max-width:600px){ 
+    #cms .li-category-blog{padding-left:10%;padding-right:10%;background-color:#fff;}
+}
